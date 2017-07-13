@@ -1,6 +1,8 @@
 # storybook-directory-chapters
 
-A loader for [Storybook 3.0](https://storybook.js.org/) using `@storybook/addon-chapters` to automatically generate chapters that mirrors your direcory structure.
+A loader for [Storybook 3.0](https://storybook.js.org/) using [@storybook/addon-chapters](https://github.com/sm-react/storybook-chapters) to automatically generate chapters that mirrors your direcory structure.
+
+[ [DEMO PAGE](https://ygoto3.github.io/storybook-directory-chapters/) ]
 
 ![hierarchical chapters in your Storybook](./assets/storybook-directory-chapters.png)
 
