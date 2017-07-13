@@ -1,0 +1,12 @@
+// @flow
+
+declare module '@storybook/react' {
+  declare interface Story {
+    add: (storyName: string, callback: Function) => Story;
+    chapter: (chapterName: string) => Story;
+    endOfChapter: () => Story;
+  }
+
+  declare function storiesOf(storyName, module: Object): Story;
+  declare function action(name: string): Function;
+}
