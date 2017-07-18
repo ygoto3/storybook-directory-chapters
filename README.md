@@ -1,5 +1,8 @@
 # storybook-directory-chapters
 
+![CircleCI master](https://img.shields.io/circleci/project/github/ygoto3/storybook-directory-chapters/master.svg)
+![Codecov master](https://img.shields.io/codecov/c/github/ygoto3/storybook-directory-chapters/master.svg)
+
 A loader for [Storybook 3.0](https://storybook.js.org/) using [@storybook/addon-chapters](https://github.com/sm-react/storybook-chapters) to automatically generate a tree of chapters that mirrors your direcory structure.
 
 [ [DEMO PAGE](https://ygoto3.github.io/storybook-directory-chapters/) ]
