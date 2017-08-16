@@ -1,9 +1,17 @@
-# storybook-directory-chapters
+<h1 align="center">storybook-directory-chapters</h1>
 
-[![CircleCI master](https://img.shields.io/circleci/project/github/ygoto3/storybook-directory-chapters/master.svg)](https://circleci.com/gh/ygoto3/storybook-directory-chapters)
-[![Codecov master](https://img.shields.io/codecov/c/github/ygoto3/storybook-directory-chapters/master.svg)](https://codecov.io/gh/ygoto3/storybook-directory-chapters)
+<h5 align="center">A loader for <a href="https://storybook.js.org/">Storybook 3.0</a> using <a href="https://github.com/sm-react/storybook-chapters">@storybook/addon-chapters</a><br />to automatically generate a tree of chapters that mirrors your direcory structure.</h5>
 
-A loader for [Storybook 3.0](https://storybook.js.org/) using [@storybook/addon-chapters](https://github.com/sm-react/storybook-chapters) to automatically generate a tree of chapters that mirrors your direcory structure.
+<div align="center">
+  <a href="https://circleci.com/gh/ygoto3/storybook-directory-chapters">
+    <img src="https://img.shields.io/circleci/project/github/ygoto3/storybook-directory-chapters/master.svg" alt="CircleCI master" />
+  </a>
+  <a href="https://codecov.io/gh/ygoto3/storybook-directory-chapters">
+    <img src="https://img.shields.io/codecov/c/github/ygoto3/storybook-directory-chapters/master.svg" alt="Codecov master" />
+  </a>
+</div>
+
+<br />
 
 [ [DEMO PAGE](https://ygoto3.github.io/storybook-directory-chapters/) ]
 
