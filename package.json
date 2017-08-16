@@ -17,7 +17,7 @@
     "type": "flow",
     "coverage": "codecov",
     "precommit": "lint-staged",
-    "prepush": "yarn test"
+    "prepush": "yarn type && yarn test"
   },
   "repository": {
     "type": "git",
