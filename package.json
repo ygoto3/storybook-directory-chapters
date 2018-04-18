@@ -1,6 +1,6 @@
 {
   "name": "storybook-directory-chapters",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A loader for Storybook using @storybook/addon-chapters to automatically generate a tree of chapters that mirrors your direcory structure.",
   "main": "lib/loadDirectories.js",
   "files": [
